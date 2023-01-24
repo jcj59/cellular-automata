@@ -1,0 +1,28 @@
+---
+# Members of your group.
+group:
+  - name: Ming DeMers
+    netid: mtd64
+  - name: Jack Jansons
+    netid: jcj59
+  - name: Benjamin Nozik
+    netid: bhn9
+  - name: Jason Chung
+    netid: jkc97
+# Your PM.
+pm:
+  name: Kevin Won
+  netid: kjw252
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "OChameleon: Cellular Automata"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/OChameleon/Cellular-Automata"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project works within the field of Cellular Automata. Inspired by the famous Rule 90 and John Conway's Game of Life, we have implemented various systems of cellular automata, allowing interactivity by changing parameters and adding rules. For example, we have implemented both 2D and 1D cellular automata with various gamerule parameters. These automata can be observed through either the command line or through a GUI.
+
+
